@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_finish_exercise"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0F2F1"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/textview"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:textSize="24sp"/>
+    <Button
+        android:id="@+id/comfirm"
+        android:layout_gravity="center"
+        android:background="#009688"
+        android:text="@string/goodjob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textAllCaps="false"
+        android:padding="24dp"
+        android:textSize="36sp"/>
+</LinearLayout>

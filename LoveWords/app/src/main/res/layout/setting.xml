@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#E0F2F1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_margin="8dp"
+            android:background="#00000000"
+            android:text="@string/setting"
+            android:fontFamily="@font/pacifico"
+            android:textColor="#00695C"
+            android:textSize="36sp"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/alarmselect"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#004D40"
+        android:textColor="#E0F2F1"
+        android:text="@string/alarmselect"
+        android:textSize="21sp" />
+    <Button
+        android:id="@+id/wordselect"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#00695C"
+        android:textColor="#E0F2F1"
+        android:text="@string/wordselect"
+        android:textSize="21sp"/>
+    <Button
+        android:id="@+id/questionselect"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#00796B"
+        android:textColor="#E0F2F1"
+        android:text="@string/questionselect"
+        android:textSize="21sp"/>
+    <Button
+        android:id="@+id/sharetoqq"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#00897B"
+        android:textColor="#E0F2F1"
+        android:text="@string/sharetoqq"
+        android:textSize="21sp"/>
+    <Button
+        android:id="@+id/settinglogin"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#009688"
+        android:text="@string/login"
+        android:textSize="21sp"
+        android:textColor="@color/white"
+        />
+    <Button
+        android:id="@+id/aboutus"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#26A69A"
+        android:text="@string/aboutus"
+        android:textColor="@color/white"
+        android:textSize="21sp"/>
+
+    <TextView
+        android:id="@+id/nouse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/something"
+        android:textColor="@color/colorPrimary"
+        android:fontFamily="@font/niconne"
+        android:textSize="21sp" />
+</LinearLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LoveWords</string>
+    <string name="alarm">Alarm</string>
+    <string name="setting">Setting</string>
+    <string name="wordselect">Word</string>
+    <string name="alarmselect">Sound</string>
+    <string name="questionselect">Amount</string>
+    <string name="aboutus">More Info</string>
+    <string name="something">Thank you for using our application. If you find a bug or have a good suggestion, please send an email to keyu100@21cn.com to contact us.</string>
+    <string name="hint">Input Words...</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="comfirm">Save</string>
+    <string name="inputblank">Input cannot be empty</string>
+    <string name="worddatabase">Slect Dictionary</string>
+    <string name="cet">CET4-6</string>
+    <string name="toefl">TOEFL</string>
+    <string name="alarmvoice">Select Sound</string>
+    <string name="marriage">梦中的婚礼</string>
+    <string name="air">天空之城</string>
+    <string name="original">故乡的原风景</string>
+    <string name="questionnumber">Select Amount</string>
+    <string name="stopalarm">EXIT</string>
+    <string name="toexercise">GO!</string>
+    <string name="appwidget_text">Refresh</string>
+    <string name="add_widget">Add widget</string>
+    <string name="goodjob">Well Done!</string>
+    <string name="sharetoqq">Share to QQ</string>
+    <string name="refresh">Refresh</string>
+    <string name="clickToNext">Click to Next</string>
+    <string name="login">Login</string>
+</resources>
